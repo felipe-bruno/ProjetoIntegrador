@@ -118,6 +118,7 @@ Um departamento pode ter **vários professores** (*1:N*).
 **Thiago Estevão**  
 **Nicolas Soares**  
 **Lara Ferreira Gonçalves**  
+**Felipe Bruno**
 
 
 ---
